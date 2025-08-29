@@ -8,6 +8,8 @@ This repository is based on concepts and patterns from the excellent book ["LLM 
 
 **📖 I highly recommend reading the book!** It provides comprehensive coverage of LLM engineering practices, MLOps pipelines, and modern AI system architecture. This project serves as a practical application of those concepts.
 
+**Current Progress:** I'm currently starting Chapter 4 of the book, so this implementation reflects the concepts and techniques covered up to that point.
+
 **Original Repository:** https://github.com/PacktPublishing/LLM-Engineers-Handbook
 
 ## Features
